@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/maziz1997/IdeaProjects.svg?branch=master)](https://travis-ci.org/maziz1997/IdeaProjects)
